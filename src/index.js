@@ -12,7 +12,7 @@ jokeBtn.addEventListener('click', generateJoke)
 generateJoke()
 // Create a new button element
 var newButton = document.createElement("button");
-newButton.innerHTML = "New Button";
+newButton.innerHTML = "Newf Button";
 
 // Add an event listener to the new button
 newButton.addEventListener("click", function() {
